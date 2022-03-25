@@ -9,7 +9,9 @@ import os
 import sys
 import uuid
 
-
+# Write your directory and filename
+# I create a new file to write passwords (Password_1.txt)
+# f = open(r'C:\Users\your_account\your_directory(Desktop, Documents, Downloads...)\your_file_name(Password_1.txt)', 'w+', encoding='utf-8')
 f = open(r'C:\Users\09702\Desktop\Password_1.txt', 'w+', encoding='utf-8')
 
 
